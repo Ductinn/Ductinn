@@ -17,7 +17,7 @@ hi, i'm Huỳnh Đức Tin, I'm a student in infomation security, ctf player.
 
 📈 my github stats
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=ductinn&show_icons=true&theme=gotham" alt="ductinn" />
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Ductinn&show_icons=true&theme=gotham" alt="ductinn" />
 
 
 
